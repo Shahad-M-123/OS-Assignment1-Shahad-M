@@ -46,15 +46,15 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 2 - [Date and Time]
-**What I did**: 
+**What I did**: add feature2
 
-**Details**: 
+**Details**: Implemented context switch counter and ensured it works correctly
 
-**Challenges**: 
+**Challenges**: Had difficulty tracking the switch count correctly.
 
-**Solution**: 
+**Solution**: Fixed the logic and tested multiple cases.
 
-**Time spent**: 
+**Time spent**:1 day 
 
 ---
 
