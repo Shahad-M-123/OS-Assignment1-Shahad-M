@@ -84,16 +84,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [Apri 3, 2026, 12:40 PM]
+**What I did**: Installed VS Code.
 
-**Details**: 
+**Details**: Downloaded and set up VS Code for use.
 
-**Challenges**: 
+**Challenges**: Faced a small issue during installation.
 
-**Solution**: 
+**Solution**: Fixed it by retrying and adjusting settings.
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
