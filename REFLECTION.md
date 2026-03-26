@@ -41,7 +41,7 @@ Proper management is required to avoid errors and conflicts.]
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[Multithreading can improve the performance of real-world applications by allowing multiple tasks to run simultaneously. For example, a web browser can load web pages, run scripts, and play videos at the same time. In mobile apps, it helps keep the interface responsive while performing background tasks like downloading files. It is also useful in games to handle animations, physics, and input together. Overall, multithreading makes applications faster and more efficient for users..]
 
 ---
 
