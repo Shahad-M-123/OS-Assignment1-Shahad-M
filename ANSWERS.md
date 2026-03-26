@@ -31,8 +31,7 @@ P1 moved to end of ready queue]
 ```
 
 **Explanation of example:**
-[Explanation of example:
-
+[
 In this example, P1 used its full time quantum but did not finish execution. It was moved to the end of the ready queue so other processes can run. Later, P1 will get another turn, ensuring fairness among all processes.]
 
 ---
