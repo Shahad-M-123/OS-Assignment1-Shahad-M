@@ -62,21 +62,21 @@ In this example, P1 used its full time quantum but did not finish execution. It 
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [Web Server]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[A web server handles multiple user requests at the same time using threads.]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin ensures each request gets a fair share of CPU time, preventing any single request from blocking others and improving responsiveness.]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [Media Player]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[A media player runs multiple tasks like playing audio, loading data, and updating the UI simultaneously.]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin allows smooth switching between tasks, ensuring responsiveness and preventing delays in playback or user interaction.]
 
 ---
 
