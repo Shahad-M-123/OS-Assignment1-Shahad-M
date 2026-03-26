@@ -21,7 +21,11 @@ Proper management is required to avoid errors and conflicts.]
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[I learned that multithreading allows multiple tasks to run at the same time.
+It helps improve the performance and efficiency of programs.
+Each thread can run independently within the same process.
+It is useful for handling complex and time-consuming tasks.
+Proper management is required to avoid errors and conflicts.]
 
 ---
 
