@@ -33,7 +33,7 @@ Proper management is required to avoid errors and conflicts.]
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+[I overcame the challenges by first identifying the main problems. Then, I broke each problem into smaller, easier tasks. I researched solutions in documentation and tutorials. I also asked for help when I got stuck. Finally, I tested different approaches until I succeeded.]
 
 ---
 
