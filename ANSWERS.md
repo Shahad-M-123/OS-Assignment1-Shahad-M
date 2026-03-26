@@ -42,17 +42,17 @@ In this example, P1 used its full time quantum but did not finish execution. It 
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
+[A thread goes through several states during its lifecycle. In this simulation, process P1 starts in the New state when it is created. It becomes Runnable after calling Thread.start(), meaning it is ready to be scheduled. When the CPU selects it, P1 enters the Running state and executes its task. If P1 is paused (for example using Thread.sleep()), it enters the Waiting state temporarily. Finally, once it finishes execution, it enters the Terminated state.]
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [P1 is in the New state when it is first created but before start() is called.]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [P1 becomes Runnable after Thread.start() is called and is ready to run.]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [P1 is Running when the scheduler assigns CPU time to it.]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [P1 enters Waiting when it is paused, such as during Thread.sleep().]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [P1 is Terminated after it finishes execution]
 
 ---
 
