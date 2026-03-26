@@ -58,7 +58,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
+### Entry 3 - [Apri 3, 2026, 3:40 PM]
 **What I did**: add feature 3
 
 **Details**:Implemented waiting time tracking and tested it.
