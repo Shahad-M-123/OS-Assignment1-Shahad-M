@@ -83,9 +83,9 @@ In this example, P1 used its full time quantum but did not finish execution. It 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. The difference between a process and a thread in terms of memory sharing and performance.
+2. How Round-Robin scheduling works and how processes are re-queued after the time quantum expires.
+3. The lifecycle of a thread (New, Runnable, Running, Waiting, Terminated) and how it changes during execution.
 
 **Concepts I need to study more:**
 1. 
