@@ -71,16 +71,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [Apri 3, 2026, 4:40 PM]
+**What I did**: Installed VS Code and connected it with Git.
 
-**Details**: 
+**Details**: Set up VS Code and linked it to Git for version control.
 
-**Challenges**: 
+**Challenges**: Faced issues connecting to Git.
 
-**Solution**: 
+**Solution**: Resolved by configuring Git settings correctly.
 
-**Time spent**: 
+**Time spent**: 1–2 hours
 
 ---
 
