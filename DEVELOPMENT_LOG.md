@@ -45,7 +45,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
+### Entry 2 -[Apri 4, 2026, 3:40 PM]
 **What I did**: add feature2
 
 **Details**: Implemented context switch counter and ensured it works correctly
@@ -112,7 +112,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [72 hours]
 
 **Most challenging part**: 
 
