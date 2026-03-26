@@ -59,15 +59,15 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 3 - [Date and Time]
-**What I did**: 
+**What I did**: add feature 3
 
-**Details**: 
+**Details**:Implemented waiting time tracking and tested it.
 
-**Challenges**: 
+**Challenges**: Difficulty calculating waiting time with context switching.
 
-**Solution**: 
+**Solution**: Fixed by updating time only when process is waiting.
 
-**Time spent**: 
+**Time spent**: 1 day
 
 ---
 
